@@ -34,7 +34,7 @@ async function initMap(num: number) {
           // 灌木道具
           prop: Random(20) ? {
             resId: 0,
-            resNum: 10,
+            resNum: 11,
             passMask: 0,
           } : undefined,
         })
