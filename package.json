@@ -1,0 +1,13 @@
+{
+  "name": "blockrpg-mapinit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "node built/index.js"
+  },
+  "repository": "https://github.com/blockrpg/blockrpg-mapinit",
+  "author": "鸡毛 <shihao.gu@perfma.com>",
+  "license": "MIT",
+  "private": false
+}
